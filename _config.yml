@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://localhost:4000/
+url: http://jutemp.github.io/
+# url: http://localhost:4000/
 # permalink: :year/:month/:day/:title/
 permalink: :title/
 permalink_defaults:
@@ -105,11 +106,11 @@ theme: redefine
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/JuTemp/Blog
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+# deploy:
+#   type: git
+#   repo: https://github.com/JuTemp/Blog
+#   # example, https://github.com/hexojs/hexojs.github.io
+#   branch: gh-pages
 
 # hexo-tag-cloud
 # tag_cloud:
